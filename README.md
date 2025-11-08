@@ -37,6 +37,18 @@ The **Random Forest** model provided the best overall trade-off between accuracy
 
 ---
 
+## How to Reproduce
+1. Open `next_day_directional_signal.ipynb` in [Google Colab](https://colab.research.google.com/).
+2. Run all cells sequentially.
+3. Outputs will appear in `/content/`:
+   - `model_summary.csv`
+   - `daily_pnl_rf.csv`
+   - `feature_importance.csv`
+   - `/plots/` (visuals)
+   - `summary_report.pdf` (final report)
+
+---
+
 ## Insights
 - Simple, interpretable features can still yield predictive power in short time windows.
 - Nonlinear methods (Random Forest) slightly outperform linear baselines (Logistic Regression).
