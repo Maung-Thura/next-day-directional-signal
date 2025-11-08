@@ -1,4 +1,4 @@
-# Next‑day directional signal across
+# Next‑Day Directional Signal
 
 ## Objective
 Transform daily ratings/indicators into **next-day directional signals** for 8 assets (30 trading days each).  
